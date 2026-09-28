@@ -1,10 +1,8 @@
-## Runners_Eye: Runners Feed
-AI 엔지니어, 데이터 분석가, 백엔드 등을 지망하는 박주환입니다. 저는 비전공자 출신으로 처음으로 프로젝트를 시작하고, 첫 포트폴리오를 작성하고 있습니다.
-이 공간은 세계적인 DB회사 오라클(Oracle) 부트캠프의 조별 프로젝트이며 저희 조의 프로젝트 이름은 멀티모달 에이전틱 러닝 코치(4조): Runners-Eye입니다. 이를 진행하며, 제가 개인적으로 주도했던 영상 파이프라인 속도 최적화, 성능 벤치마크, 아키텍처 개선 기록 등을 모아둔 포트폴리오 저장소입니다.
+# Runners Feed Organization Profile
 
-## 주요 기여 및 연구 (My Contributions)
-- [이미지 포맷 벤치마크] PNG와 JPEG 의 렌더링 속도를 비교하고 최적화 포맷을 선정하였습니다.
-- [데이터 찾기] 제가 직접 달려서 데이터가 되기도 했고, Antigravity Agent를 통해 필요한 영상 데이터를 최대한 많이 찾아 모델링 담당에게 전달하였습니다.
-- [파이프라인 최적화] 디스크 I/O 병목 제거 및 GPU 도입으로 처리 속도를 N% 단축했습니다.
-- [논문 분석 및 Feature 찾기] 논문을 기반으로 우리 주제에 맞는 Feature를 찾아 모델링 담당에게 전달했습니다.
-- [서기] 아침 스크럼을 매일 적었습니다.
+Runners Feed 프로젝트의 GitHub Organization 프로필을 관리하는 저장소입니다.
+
+- 조직 소개와 대표 작업: [`profile/README.md`](profile/README.md)
+- 발표자료·시연 영상·개인 기여 정리: [runners-feed-showcase](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase)
+
+프로젝트의 실험, 구현 결과와 한계는 조직 프로필과 연결된 각 저장소에서 확인할 수 있습니다.
