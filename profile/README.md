@@ -10,8 +10,8 @@
 Runners Feed는 사용자가 측면에서 촬영한 러닝 영상을 업로드하면 관절 움직임을 분석하고, 자세 측정값과 개선 행동을 리포트로 제공하는 비의료용 러닝 자세 분석 서비스입니다.
 
 - [최종 팀 저장소](https://github.com/Temu-F4/Runners_Feed)
-- 최종 발표자료 PDF: 공개 파일 연결 예정
-- 1분 45초 서비스 시연 영상: 공개 파일 연결 예정
+- [최종 발표자료 PDF](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/blob/main/docs/runners-eye-final-presentation.pdf)
+- [1분 45초 서비스 시연 영상](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/releases/download/v1.0.0/Runners_Feed_demo_01m45s.mp4)
 
 ## My Contributions
 
