@@ -87,6 +87,6 @@ RTMDet과 RTMPose-M Halpe-26을 이용해 영상 입력부터 자세 추정, 피
 
 ## Documentation
 
-- PoC 검증과 기술적 판단: 공개 문서 연결 예정
+- [PoC 검증과 기술적 판단](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/blob/main/docs/poc-validation.md)
 - MVP 범위와 개인 기여: 공개 문서 연결 예정
 - 실험 조건, 한계와 PR 이력: 공개 문서 연결 예정
