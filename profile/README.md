@@ -2,12 +2,12 @@
 
 2D 러닝 영상 분석 프로젝트에서 **측정 가능한 자세 피처를 검토하고, 영상 처리 병목을 실험으로 확인한 뒤, RunPod GPU 비동기 분석 서버를 구현해 팀 제품에 반영한 과정**을 정리한 개인 기술 아카이브입니다.
 
-> Runners Feed는 Oracle 부트캠프에서 진행한 팀 프로젝트입니다.
-> 이 Organization은 박주환이 직접 수행한 실험, 프로토타입과 기술 기록을 중심으로 구성하며, 팀 전체 결과와 개인 기여를 구분해 표시합니다.
+> Runners Feed는 오라클 의료 바이오 AI 부트캠프에서 진행한 팀 프로젝트입니다.
+> 이 Organization은 직접 수행한 실험, 프로토타입과 기술 기록을 중심으로 구성하며, 팀 전체 결과와 개인 기여를 구분해 표시합니다.
 
 ## Project
 
-Runners Feed는 사용자가 측면에서 촬영한 러닝 영상을 업로드하면 관절 움직임을 분석하고, 자세 측정값과 개선 행동을 리포트로 제공하는 비의료용 러닝 자세 분석 서비스입니다.
+Runners Feed는 사용자가 측면에서 촬영한 러닝 영상을 업로드하면 관절 움직임을 분석하고, 자세 측정값과 개선 행동을 리포트로 제공하는 러닝 자세 분석 서비스입니다.
 
 - [최종 팀 저장소](https://github.com/Temu-F4/Runners_Feed)
 - [최종 발표자료 PDF](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/blob/main/docs/runners-eye-final-presentation.pdf)
@@ -88,5 +88,5 @@ RTMDet과 RTMPose-M Halpe-26을 이용해 영상 입력부터 자세 추정, 피
 ## Documentation
 
 - [PoC 검증과 기술적 판단](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/blob/main/docs/poc-validation.md)
-- MVP 범위와 개인 기여: 공개 문서 연결 예정
+- [MVP 범위와 개인 기여](https://github.com/RunnersFeed-Project-Oracle-boot-camp/runners-feed-showcase/blob/main/docs/mvp-scope-and-contribution.md)
 - 실험 조건, 한계와 PR 이력: 공개 문서 연결 예정
